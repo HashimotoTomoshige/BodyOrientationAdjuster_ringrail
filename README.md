@@ -1,0 +1,2 @@
+# BodyOrientationAdjuster_ringrail
+リングレール方式の検査支持部の制御プログラム
