@@ -1,0 +1,6 @@
+<launch>
+  <group ns="robot_control">
+    <node pkg="robot_posture_control" name="robot_posture_control" type="robot_posture_control"  output="screen"/>
+  </group>
+</launch>
+
